@@ -82,14 +82,3 @@ _help_     | Prints information about the different functionality of the console
 
 No known bugs
 
-## Authors
-
-<p>Eugene Muthui - jmuthui70@gmail.com</p>
-<p>Silvia Musangi - musangisilvia@gmail.com</p>
-
-
-
-
-
-
-_23rd June 2021_
